@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/tex.key</file>
+        <file>resource/tex.crt</file>
+    </qresource>
+</RCC>

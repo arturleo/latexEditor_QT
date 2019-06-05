@@ -1,0 +1,8 @@
+thinFormalLetter
+shortStylishCoverLetter
+poems
+journalArticle
+CompactAcademicCV
+ClassicthesisStyledCV
+chemicalEquations
+cheatsheet
